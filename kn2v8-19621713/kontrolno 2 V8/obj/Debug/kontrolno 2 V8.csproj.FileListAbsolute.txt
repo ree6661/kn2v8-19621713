@@ -1,0 +1,22 @@
+C:\Users\mjele.DESKTOP-G1OVLAV\source\repos\kontrolno 2 V8\kontrolno 2 V8\bin\Debug\kontrolno 2 V8.exe.config
+C:\Users\mjele.DESKTOP-G1OVLAV\source\repos\kontrolno 2 V8\kontrolno 2 V8\bin\Debug\kontrolno 2 V8.exe
+C:\Users\mjele.DESKTOP-G1OVLAV\source\repos\kontrolno 2 V8\kontrolno 2 V8\bin\Debug\kontrolno 2 V8.pdb
+C:\Users\mjele.DESKTOP-G1OVLAV\source\repos\kontrolno 2 V8\kontrolno 2 V8\obj\Debug\kontrolno 2 V8.csproj.AssemblyReference.cache
+C:\Users\mjele.DESKTOP-G1OVLAV\source\repos\kontrolno 2 V8\kontrolno 2 V8\obj\Debug\kontrolno 2 V8.csproj.SuggestedBindingRedirects.cache
+C:\Users\mjele.DESKTOP-G1OVLAV\source\repos\kontrolno 2 V8\kontrolno 2 V8\obj\Debug\kontrolno_2_V8.Form1.resources
+C:\Users\mjele.DESKTOP-G1OVLAV\source\repos\kontrolno 2 V8\kontrolno 2 V8\obj\Debug\kontrolno_2_V8.Properties.Resources.resources
+C:\Users\mjele.DESKTOP-G1OVLAV\source\repos\kontrolno 2 V8\kontrolno 2 V8\obj\Debug\kontrolno 2 V8.csproj.GenerateResource.cache
+C:\Users\mjele.DESKTOP-G1OVLAV\source\repos\kontrolno 2 V8\kontrolno 2 V8\obj\Debug\kontrolno 2 V8.csproj.CoreCompileInputs.cache
+C:\Users\mjele.DESKTOP-G1OVLAV\source\repos\kontrolno 2 V8\kontrolno 2 V8\obj\Debug\kontrolno 2 V8.exe
+C:\Users\mjele.DESKTOP-G1OVLAV\source\repos\kontrolno 2 V8\kontrolno 2 V8\obj\Debug\kontrolno 2 V8.pdb
+C:\Users\mjele.DESKTOP-G1OVLAV\Desktop\kn2v8-19621713\kontrolno 2 V8\bin\Debug\kontrolno 2 V8.exe.config
+C:\Users\mjele.DESKTOP-G1OVLAV\Desktop\kn2v8-19621713\kontrolno 2 V8\bin\Debug\kontrolno 2 V8.exe
+C:\Users\mjele.DESKTOP-G1OVLAV\Desktop\kn2v8-19621713\kontrolno 2 V8\bin\Debug\kontrolno 2 V8.pdb
+C:\Users\mjele.DESKTOP-G1OVLAV\Desktop\kn2v8-19621713\kontrolno 2 V8\obj\Debug\kontrolno 2 V8.csproj.AssemblyReference.cache
+C:\Users\mjele.DESKTOP-G1OVLAV\Desktop\kn2v8-19621713\kontrolno 2 V8\obj\Debug\kontrolno 2 V8.csproj.SuggestedBindingRedirects.cache
+C:\Users\mjele.DESKTOP-G1OVLAV\Desktop\kn2v8-19621713\kontrolno 2 V8\obj\Debug\kontrolno_2_V8.Form1.resources
+C:\Users\mjele.DESKTOP-G1OVLAV\Desktop\kn2v8-19621713\kontrolno 2 V8\obj\Debug\kontrolno_2_V8.Properties.Resources.resources
+C:\Users\mjele.DESKTOP-G1OVLAV\Desktop\kn2v8-19621713\kontrolno 2 V8\obj\Debug\kontrolno 2 V8.csproj.GenerateResource.cache
+C:\Users\mjele.DESKTOP-G1OVLAV\Desktop\kn2v8-19621713\kontrolno 2 V8\obj\Debug\kontrolno 2 V8.csproj.CoreCompileInputs.cache
+C:\Users\mjele.DESKTOP-G1OVLAV\Desktop\kn2v8-19621713\kontrolno 2 V8\obj\Debug\kontrolno 2 V8.exe
+C:\Users\mjele.DESKTOP-G1OVLAV\Desktop\kn2v8-19621713\kontrolno 2 V8\obj\Debug\kontrolno 2 V8.pdb
